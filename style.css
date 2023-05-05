@@ -212,3 +212,8 @@ hr {
   .hover:hover {
     opacity: 0.5;
   }
+
+  .text h1:hover,.name:hover {
+    color: var(--color-cyan);
+    cursor: pointer;
+  }
